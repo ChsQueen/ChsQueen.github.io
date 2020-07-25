@@ -3,9 +3,9 @@ title: Ramaa's AI blog
 email: 
 description: "Open World of AI"
 baseurl: ""
-url: "http://karpathy.github.io"
-twitter_username: karpathy
-github_username:  karpathy
+url: "http://ChsQueen.github.io"
+!twitter_username: chsqueen
+github_username:  ChsQueen
 
 # Build settings
 markdown: kramdown
