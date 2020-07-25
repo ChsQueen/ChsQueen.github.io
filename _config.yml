@@ -1,17 +1,1 @@
-# Site settings
-title: Ramaa's AI blog
-email: 
-description: "Open World of AI"
-baseurl: ""
-url: "http://ChsQueen.github.io"
-github_username:  ChsQueen
-
-# Build settings
-markdown: kramdown
-permalink: pretty
-
-highlighter: rouge
-kramdown:
-  input: GFM
-  auto_ids: true
-  syntax_highlighter: rouge
+permalink: /blog/:year/:month/:day/:title
